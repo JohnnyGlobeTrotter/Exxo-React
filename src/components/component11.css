@@ -1,0 +1,100 @@
+.component11-container {
+  flex: 0 0 auto;
+  width: 25%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: center;
+}
+.component11-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.component11-image {
+  width: 100%;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius8);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.component11-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0px;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-top: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: #ece4e4;
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.component11-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.component11-text {
+  fill: var(--dl-color-exxo-exxo-heading);
+  color: var(--dl-color-exxo-exxo-heading);
+  font-weight: 600;
+}
+.component11-text1 {
+  font-size: 14px;
+  padding-top: var(--dl-space-space-halfunit);
+}
+.component11-text2 {
+  fill: var(--dl-color-gray-700);
+  color: var(--dl-color-gray-700);
+  font-size: 14px;
+  align-self: flex-end;
+}
+.component11-text3 {
+  fill: var(--dl-color-exxo-exxo-heading);
+  color: var(--dl-color-exxo-exxo-heading);
+  align-self: flex-end;
+}
+.component11-text4 {
+  fill: var(--dl-color-gray-700);
+  color: var(--dl-color-gray-700);
+  font-size: 14px;
+  align-self: flex-end;
+}
+.component11-root-class-name {
+  flex: initial;
+  width: 100%;
+}
+.component11-root-class-name1 {
+  flex: initial;
+  width: 100%;
+}
+.component11-root-class-name2 {
+  flex: initial;
+  width: 100%;
+}
+.component11-root-class-name3 {
+  flex: initial;
+  width: 100%;
+}

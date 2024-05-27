@@ -1,0 +1,279 @@
+.exxo-homepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.exxo-homepage-container01 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 0px;
+}
+.exxo-homepage-container02 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.exxo-homepage-image {
+  width: 100%;
+  object-fit: cover;
+}
+.exxo-homepage-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.exxo-homepage-container04 {
+  flex: 0 0 auto;
+  width: 90%;
+  height: 100px;
+  display: flex;
+  max-width: 1200px;
+  align-self: center;
+  margin-top: -50px;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-right: var(--dl-space-space-unit);
+  justify-content: center;
+  background-color: var(--dl-color-exxo-exxo-blue);
+}
+.exxo-homepage-container05 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.exxo-homepage-form {
+  width: auto;
+  height: auto;
+  display: flex;
+}
+.exxo-homepage-select {
+  width: 200px;
+  height: 40px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.exxo-homepage-container06 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+}
+.exxo-homepage-textinput {
+  flex: 1;
+  height: 40px;
+  margin-left: var(--dl-space-space-unit);
+  border-width: 0px;
+  border-top-left-radius: var(--dl-radius-radius-radius4);
+  border-top-right-radius: 0;
+  border-bottom-left-radius: var(--dl-radius-radius-radius4);
+  border-bottom-right-radius: 0;
+}
+.exxo-homepage-textinput1 {
+  height: 40px;
+  border-color: var(--dl-color-exxo-exxo-heading);
+  border-width: 0px;
+  margin-right: var(--dl-space-space-unit);
+  border-left-width: 1px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.exxo-homepage-textinput2 {
+  height: 40px;
+  border-width: 0px;
+}
+.exxo-homepage-button {
+  color: #ffffff;
+  width: var(--dl-size-size-large);
+  height: 40px;
+  margin-left: var(--dl-space-space-unit);
+  border-width: 0px;
+  background-color: var(--dl-color-primary-darkmajority1);
+}
+.exxo-homepage-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-width: 1200px;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.exxo-homepage-container08 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+  justify-content: flex-start;
+}
+.exxo-homepage-text {
+  fill: var(--dl-color-exxo-exxo-heading);
+  color: var(--dl-color-exxo-exxo-heading);
+}
+.exxo-homepage-container09 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.exxo-homepage-container10 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.exxo-homepage-text1 {
+  fill: var(--dl-color-exxo-exxo-heading);
+  color: var(--dl-color-exxo-exxo-heading);
+}
+.exxo-homepage-container11 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.exxo-homepage-container12 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.exxo-homepage-text2 {
+  fill: var(--dl-color-exxo-exxo-heading);
+  color: var(--dl-color-exxo-exxo-heading);
+}
+.exxo-homepage-container13 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+}
+.exxo-homepage-container14 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: var(--dl-color-exxo-exxo-blue);
+}
+.exxo-homepage-container15 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: 1200px;
+  align-items: flex-start;
+}
+@media(max-width: 767px) {
+  .exxo-homepage-form {
+    display: block;
+  }
+}
+@media(max-width: 479px) {
+  .exxo-homepage-image {
+    height: 350px;
+  }
+  .exxo-homepage-container03 {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .exxo-homepage-container04 {
+    flex: initial;
+    width: 100%;
+    height: auto;
+    max-width: auto;
+    align-self: center;
+    margin-top: 0px;
+    align-items: center;
+    padding-top: var(--dl-space-space-halfunit);
+    margin-bottom: 0px;
+    flex-direction: column;
+    padding-bottom: var(--dl-space-space-halfunit);
+    justify-content: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  .exxo-homepage-container05 {
+    gap: 10px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .exxo-homepage-form {
+    width: 100%;
+    position: relative;
+    align-self: center;
+  }
+  .exxo-homepage-select {
+    width: 90%;
+  }
+  .exxo-homepage-container06 {
+    width: 90%;
+    height: auto;
+  }
+  .exxo-homepage-textinput {
+    flex: initial;
+    width: 50%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  .exxo-homepage-textinput1 {
+    width: 50%;
+    margin-right: 0px;
+  }
+  .exxo-homepage-textinput2 {
+    width: 90%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .exxo-homepage-button {
+    width: 90%;
+    height: 40px;
+    align-self: center;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .exxo-homepage-container07 {
+    position: relative;
+  }
+  .exxo-homepage-container11 {
+    gap: 10px;
+    flex-direction: column;
+  }
+  .exxo-homepage-container13 {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
